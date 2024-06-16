@@ -19,7 +19,7 @@
     "keywords": ["laravel", "telegram", "bot"],
     "require": {
         "illuminate/support": "^11.0",
-        "longman/telegram-bot": "^0.81",
+        "longman/telegram-bot": "^0.83.1",
         "ext-pcntl": "*"
     },
     "require-dev": {
